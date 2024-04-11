@@ -1,0 +1,2 @@
+# nikki-js
+learning javascript 
